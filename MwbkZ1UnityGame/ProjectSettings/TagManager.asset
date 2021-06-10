@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Box
+    uniqueID: 405204129
+    locked: 0
+  - name: House
+    uniqueID: 3610754789
+    locked: 0
